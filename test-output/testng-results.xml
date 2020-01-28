@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110847" started-at="2020-01-27T19:45:08 CET" finished-at="2020-01-27T19:46:59 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110847" started-at="2020-01-27T19:45:08 CET" finished-at="2020-01-27T19:46:59 CET">
+      <class name="test.LoginPageTest">
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:test.LoginPageTest@3b084709]" name="setUpBrowser" is-config="true" duration-ms="28741" started-at="2020-01-27T19:45:09 CET" finished-at="2020-01-27T19:45:38 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="loginToGuru99Page(java.lang.String, java.lang.String)[pri:0, instance:test.LoginPageTest@3b084709]" name="loginToGuru99Page" duration-ms="4615" started-at="2020-01-27T19:45:38 CET" data-provider="providerExcel" finished-at="2020-01-27T19:45:42 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr242466]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ujybYsY]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToGuru99Page -->
+        <test-method status="PASS" signature="clloseBroser()[pri:0, instance:test.LoginPageTest@3b084709]" name="clloseBroser" is-config="true" duration-ms="1087" started-at="2020-01-27T19:45:42 CET" finished-at="2020-01-27T19:45:43 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clloseBroser -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:test.LoginPageTest@3b084709]" name="setUpBrowser" is-config="true" duration-ms="21379" started-at="2020-01-27T19:45:43 CET" finished-at="2020-01-27T19:46:05 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="loginToGuru99Page(java.lang.String, java.lang.String)[pri:0, instance:test.LoginPageTest@3b084709]" name="loginToGuru99Page" duration-ms="1331" started-at="2020-01-27T19:46:05 CET" data-provider="providerExcel" finished-at="2020-01-27T19:46:06 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Invalid1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ujybYsY]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToGuru99Page -->
+        <test-method status="PASS" signature="clloseBroser()[pri:0, instance:test.LoginPageTest@3b084709]" name="clloseBroser" is-config="true" duration-ms="1668" started-at="2020-01-27T19:46:06 CET" finished-at="2020-01-27T19:46:08 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clloseBroser -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:test.LoginPageTest@3b084709]" name="setUpBrowser" is-config="true" duration-ms="24023" started-at="2020-01-27T19:46:08 CET" finished-at="2020-01-27T19:46:32 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="loginToGuru99Page(java.lang.String, java.lang.String)[pri:0, instance:test.LoginPageTest@3b084709]" name="loginToGuru99Page" duration-ms="3389" started-at="2020-01-27T19:46:32 CET" data-provider="providerExcel" finished-at="2020-01-27T19:46:35 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr242466]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Invalid2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToGuru99Page -->
+        <test-method status="PASS" signature="clloseBroser()[pri:0, instance:test.LoginPageTest@3b084709]" name="clloseBroser" is-config="true" duration-ms="1099" started-at="2020-01-27T19:46:35 CET" finished-at="2020-01-27T19:46:36 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clloseBroser -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:test.LoginPageTest@3b084709]" name="setUpBrowser" is-config="true" duration-ms="20109" started-at="2020-01-27T19:46:36 CET" finished-at="2020-01-27T19:46:56 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="loginToGuru99Page(java.lang.String, java.lang.String)[pri:0, instance:test.LoginPageTest@3b084709]" name="loginToGuru99Page" duration-ms="1274" started-at="2020-01-27T19:46:56 CET" data-provider="providerExcel" finished-at="2020-01-27T19:46:58 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Invalid3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Invalid4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToGuru99Page -->
+        <test-method status="PASS" signature="clloseBroser()[pri:0, instance:test.LoginPageTest@3b084709]" name="clloseBroser" is-config="true" duration-ms="1180" started-at="2020-01-27T19:46:58 CET" finished-at="2020-01-27T19:46:59 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clloseBroser -->
+      </class> <!-- test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

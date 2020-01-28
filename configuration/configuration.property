@@ -1,0 +1,10 @@
+ChromeDirver=C:\\chromedriver.exe
+
+URL=http://www.demo.guru99.com/V4/index.php
+
+ExcelPath=C:\\Users\\User\\eclipse-workspace\\Guru99\\files\\loginData.xlsx
+
+userId=mngr242466
+
+password=ujybYsY
+
